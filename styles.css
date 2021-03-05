@@ -24,3 +24,6 @@
 .right {
     border-left: 1px solid green;
 }
+.row:hover {
+    cursor: pointer;
+}
